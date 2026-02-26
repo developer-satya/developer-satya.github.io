@@ -72,7 +72,7 @@ html{
 }
 
 .navbar .menu li:hover a{
-    color: crimson;
+    color: #9d0e29;
 }
 
 .navbar.sticky .menu li:hover{
@@ -779,4 +779,5 @@ footer span a:hover{
         font-size: 18px;
         padding: 7px 20px;
     }
+
 }
